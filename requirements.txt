@@ -1,0 +1,2 @@
+# No external dependencies - uses only Python standard library
+# urllib, json, datetime, os are all built-in
